@@ -1,104 +1,0 @@
-MZ?         ?       @                                   ?   ? ???L?This program cannot be run in DOS mode.
-
-$       )?巑丷輒丷輒丷輞闟躧丷輒丼軱丷輞闝躨丷輞闢躧丷莓鬢躭丷莓鬚躭丷軷ichm丷?        PE  d? 鈊        ? "  .         ?        @         
-   
-   
-        ?     眇   `A                                            p  (            `  ?           €     ―  8                           郉             @  ?                           .text   .(      *                    h.rdata  
-   @      .              @  H.data   ?   P      :              @  ?pdata  ?   `      <              @  HINIT    D   p      >                 b.reloc      €      B              @  B                                                                                                                                                                                                                                                                                                                        @SH冹03跦岮H湖  f塡$@H;聎.H岲$HH嬔H??  D岾L岲$@H塂$ 鑧  吚稤$@y访H兡0[锰H冹8僤$@ H岮H湖  H;聎1H岲$HH嬔H??  L岲$@A?   H塂$ ?  吚x婦$@?3繦兡8肔嬡SH冹`H?E?  H3腍塂$XH嬞H岯3蒊羹  I塊鄩L$PI;纖=I岰谼岻I塁窰??  M岰噼?  吚y3繦塂$0?D$0?塁?婰$P?D$H?塊H嬅H婰$XH3惕?  H兡`[锰H冹(??郃  H
-?  椟???  吚t?  ?   ?  ?〢  H
-?  柩?吚u縃??   H??   H??   !k>  H兡(锰蘃塡$WH冹 ?   峽嬘嬎鑥  ?   璩  ?邁缁?嬘嬒鑇  ?   钑  ?藘}?蒆媆$0H兡 _H%1.  蘃塡$H塼$H墊$ AVH冹 3蹕騂孂呉t@I?  €?I?H峀$@H塂$@+.  D嬂竵€€€A鬣陵i?   D+罝?;H肏;農?襀嬒H媆$0H媡$8H媩$HH兡 A^H%?  烫蘃嬆H塜H塸H墄L塦 UAVAWH嬱H冹`H?F=  H3腍塃?8.  3跮峂?
-;.  塢繢嬅E葝sA繜??0.  峽?E鐳峴M豧A? A嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜠嬈H?W=  H峂辱v  L岴?襀?A=  -  ?  婨繢嬅
-?  ??  L峂?E闰?  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜤嬈H??  H峂辱?  L岴?襀??  €,  a-  婨繢嬅
-d-  ??  L峂?E闰^-  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H?~<  H峂辱]  L岴?襀?h<  ?  ?  婨繢嬅
-?  ??  L峂?E闰?  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H?<  H峂辱?  L岴?襀??  d+  ?  婨繢嬅
-?  ?>  L峂?E闰?  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H??  H峂辱A  L岴?襀??  ?  /,  婨繢嬅
-2,  ?|=  L峂?E闰,,  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H?4;  H峂辱?  L岴?襀?;  H*  ?  婨繢嬅
-?  ??  L峂?E闰?  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H??  H峂辱%  L岴?襀??  ?  c+  婨繢嬅
-f+  ?h<  L峂?E闰`+  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H?X:  H峂辱?  L岴?襀?B:  ,)  ?  婨繢嬅
- +  ??  L峂?E闰?  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H??  H峂辱	  L岴?襀??  ?  ?  婨繢嬅
-?  ?T;  L峂?E闰?  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H?|9  H峂辱{  L岴?襀?f9  (  1*  婨繢嬅
-4*  ??  L峂?E闰.*  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H?9  H峂辱?  L岴?襀??  ?  ?  婨繢嬅
-?  ?@:  L峂?E闰?  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H??  H峂辱_  L岴?襀??  ?  e)  婨繢嬅
-h)  ??  L峂?E闰b)  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H?28  H峂辱?  L岴?襀?8  f&  (  婨繢嬅
-)  ?,9  L峂?E闰?  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H??  H峂辱C  L岴?襀??  ?  ?  婨繢嬅
-?  ??  L峂?E闰?  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H?V7  H峂辱?  L岴?襀?@7  J%  3(  婨繢嬅
-6(  ?8  L峂?E闰0(  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H??  H峂辱'  L岴?襀??  ?  ?  婨繢嬅
-?  ??  L峂?E闰?  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H?z6  H峂辱?  L岴?襀?d6  .$  g'  婨繢嬅
-j'  ?7  L峂?E闰d'  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H?6  H峂辱  L岴?襀??  ?  '  婨繢嬅
-'  ?z6  L峂?E闰?  ?E?M谹嬊A鬣A嬂+卵?铝?防k?A防D苀+羏A膄A1M蜠;莬蜛?   H??  H峂辱}  L岴?襀??  #  ?  婨繪峂?
-?  ??  E闰?  ?E?M谹嬊縻嬅+卵?铝?防k?访辠+羏A膄A1M?遼覦嬊H?;5  H峂辱?  L岴?襀?%5  ?  婨缐?  H婱餒3惕?  L峔$`I媅 I媠(I媨0M媍8I嬨A_A^]肏塡$WH侅€   H??  H3腍塂$pH嬞H峀$0"  H嬎Y"  H孁H吚teH峊$@H嬎+"  ?H?t@H兦??稢,H峊$0f塂$ H峀$ 稢.A?f塂$"婥0H塂$(v!  吚t4?H;遳?跦峀$@?  嬅H婰$pH3惕'  H嫓$?   H伳€   _脣[胄藹SH冹 3褹?  H嬞柃  H嬎!!  H嬅H兡 [聾UH嬱H冹`H??  H3腍塃饗4  L岴爥E牴   ??  塃?  塃▼?  塃瑡?  塃皨?  塃磱?  塃笅?  塃紜?  塃缷?  塃膵?  塃葖?  塃虌?  塃袐?  塃詪?  塃貗?  塃軏?  塃鄫?  塃鋴?  塃鑻?  塃霦?E吷t*H嬔H凒}D;L暊tH翲凓|餓兝H罤凒|野?2繦婱餒3惕?  H兡`]锰蘃塡$H塴$WAVAWH冹PL嬺E孁H嬔H峀$(?  A?H峊$(H峀$8?  嬝吚埈   儰$?    H崝$?   ?   鑒  H孁H吚剣   兗$?    t}H嬝3鞨峉8A?H峀$8i  吚uA;飔
-艐吚t?H仉貎{ v颒婯PH峊$ H僤$  ?  吚x謰??   H嬒??H婦$ I?3离嫈$?   H嬒??? 离嬅H媆$pH媗$xH兡PA_A^_锰藹SH冹 H婣(H嬞H吚u?   嬂H?H兡 [锰H侅X  H??  H3腍墑$@  3襀峀$ A?  鑁  H峀$ ?  婦$,-頑  t&-u  t-W  t冭t-?  笀  ?竴  ?竫  H媽$@  H3惕   H伳X  肏嬆H塜H塰H塸H墄 ATAVAWH冹 篔? ?? 鑸
-  H??  D嬥鑥  eH?%?  簅葰粙.  L鄫=.  H賸5.  H鵇?
-.  H馜?.  L駤-
-.  L鵋楣o??
-  嬋H?H??  H?3蒆?H媆$@H??  L?H?H媩$XH??  L?I?H媡$PH??  I?I?H??  I?H婨 H??  H塎 H媗$HH兡 A_A^A\锰烫H塡$H墊$ UH嬱H冹`H嬞H??  H峂?^  H僥 H岴H塂$8H峂郒??  E3蒆僤$0 E3榔D$( H?A峺@H塗$ 嬜x  吚y?  H??  H峂?  H僥  H岴 H塂$8E3蒆?S  E3繦僤$0 嬜艱$( H?H塋$ H峂?!  孁吚yH婱H吷t?  嬊楸   H婨 H婾H婬雐H儃 ugH婤隨H儃 uQH儀 u	H? uH?H媦@E3繪媺8  L+螴灵M吷tJ9莡
-N婽?L;襴
-I繫;羢腈L塖H婡H吚u℉婭H吷u扝? uH婤H吚tH婬H吷tH嬃腧H?H嬍?  H婱 ?  3繪峔$`I媅I媨(I嬨]锰烫H侅h  H崒$@  鑀??   H峀$ D岯~ H@ IH0A @@I0HPA@@`IPHpI?A`I?I餒冴u? 婡A窹  ?   ?=+  (   堿A?J  H婰$(?  H灵 A;汕&+  X   F潞   ?+  A嬂F潞?  ?*  感  F翧峆H??  辅  AF缐?  葛  F聣?  岯昂?  F潞  ??  窰  F潞H  ??  A岪(F聣?  H伳h  锰烫烫烫烫蘃塡$WH冹 璀????   峽嬘嬎鑛   ?   瑭  ?邁玷??劺t蚧?嬘嬒?   ?   鑮  ?藘}滂楇硅  鑕  鐯  劺t龛??u  鐼  胲烫蘈嬡H冹hH??  H3腍塂$P3繫岾?W繫岰?D$8I塁鄩L$DH?*  塗$HI峉袎D$:H?*  P  H婰$PH3惕C  H兡h锰蘃冹(枨  H咳凒&wH? @   HＨs??2繦兡(锰烫H塡$H塴$VWAVH冹 L嬺嬮3鰞d$P L峀$PE3?覌?畦  媆$P呟t7嬘3?	  H孁H吚t%D婦$PL峀$PH嬓嬐桧  吚y$嬘H嬒杼?凗|?繦媆$@H媗$HH兡 A^_^肁?H嬊脲烫H塡$UH嬱H冹PH??  H3腍塃?垓?  L峂鑺?  D嬅?E鑸E鸶??A鬣A嬂+卵?铝?纠k?A娎A??0A0I罙凐	|蠩3繦?<(  H峂梃/?吚y硅  钑  霅箞  鑹  ?;  L峂?   塃郉嬅?'  E衒塃涓??A鬣A嬂+卵?铝?防k?A防A纅+羏兝0fA1M岻A凐|蔋??  H峌需□吚u剐  雱硅  ?  ??  L峂??  塃郉嬅??  E衒塃涓??A鬣A嬂+卵?铝?防k?A防A纅+羏兝0fA1M岻A凐|蔋?5'  H峌需 ?嬂硅  H?&'  鑹   ?k  L岴?P  塃??Z  E衒塃涓??縻嬅+卵??酚凌?防k?f+裦兟0fA1M岪凔|螲??  H峌需嬋?H??  H婱鳫3惕f	  H媆$`H兡P]锰烫H冹(i琉?L岲$8?Hc菻塋$83?o  H兡(锰蘃嬆H冹HH僠? E3蒆僠 E3繦塇?襀僠? H岺\  吚y?H婰$Xp  3繦兡H锰H塗$USVWATAVAWH嬱H冹@H僥@ H孃H僥P L嬺H嬺I令H嬟H令?  H陵'H#蠬岭H冡餉?   L#餒#餒#谽嬏H岴@佺  H?袶塂$ H峂PE岲$?  H婱P娏鲂A勀呡   H僥X H岴@I? ?   H塂$ I#螮嬏H?貯峔$D嬅H峂X?  H婾X娐鲂A勀厴   勔yH婱HH?   ? H#聛??H岭zH僥? H岴@I#譎塂$ E嬏H峂餖嬅H??a  H婨饖撒袮勌uF劺yH婱HI#莵? 攵H僥H H峂HI#荅嬏L嬅J?餒岴@H塂$   H婨HI#莟H请3繦兡@A_A^A\_^[]锰H冹(??  
-?  柘???  %  拎H兟饗菻
-|$  H疏??  菻兡(镃?烫蘃塡$H塼$ UWAVH崿$0?感  枞  H+郒?$  H3腍墔?  H孃E嬸H嬔3跦峂€G  !\$PH岴€H!\$HL峀$pH!]楲岴惽D$@    H峀$h荄$8   W?\$0?   €荄$(€   H!\$ 荅?   荅ˊ  H塃狊E?R  吚堐   !\$d!\$`H僤$@ H岲$`H婰$hE3蒆塂$8E3繦岴狼D$0   H塂$(3襀岲$pH塂$ ?  吚垈   H婽$xE3繣3蒆呉t'B€|
-?岾M峇E薃繧c缷貯;蝨M嬍H;聄垭A;辴FHT$`H呉t<閛H;聅)L峕拦   M貰?<
-tA缊D9Ic繧翲罤;聄鉏+鵅艱 H婰$h  H媿?  H3惕€  L崪$?  I媅0I媠8I嬨A^_]肏嬆H塜H塸WH冹 僠 L岺3襀嬹E3缻Z嬎鑯  婦$8吚剼   嬓3葾窵LUNj  D婦$8L峀$8H嬓嬎H孁鐺  吚xoD?3?蒃吚tED嬞H峎0Ii?  L嬛H蠰+??F?A+羥H翬吷u雲纓	罙;萺呻Ii?  H媆83襀嬒?  H呟tH嬅?3繦媆$0H媡$@H兡 _锰蘃冹(??  
-?  桤???  %  拎H兟饗菻
-?  H疏尼??  菻兡(槌?烫藹SH冹`H嬞)t$P?X!  伭t?  )|$@?=?  鑴?吚t!?凐u
-?=?  ?凐u?=?  ?%$  H
-"!  鐼??/$  H峀$0需忈? ?D$ ?D$ ?\?t$$?\s?^求^黧^X  ?^5(  ?  嬝(畦?  嬘嬋(t$P(|$@H兡`[榕?蘃塡$WH冹 H?   €?孂H峀$0塂$0嬟?  +??明驢媆$8?H兡 _锰烫H塡$H塴$H塼$WAVAWH冹0I孂M孁H嬯3鲨<?L嬸3垭aH?+I嬑??H嬓H吚tuH僤$h %  ?   L嬊H+華?   H;螲岲$hH塂$ LB罦?;:  H婰$h嬸H+鵋賲纔
-H吷tH?u欻婦$pH?嬈H媆$PH媗$XH媡$`H兡0A_A^_酶  离嗵@UH嬱H冹p??  
-?  )t$`)|$PD)D$@璨?吚帡  ?`  H峂?n"  栝??K  
-Y"  ? 婡?E绑U绑M?(\=?  塃?(耋E阁\5y"  D(荔i"  驞\h"  ?
-\"  ?X"  ??凐?  鑙?劺?  W?.鴝
-u.饅勴   ?$  ?0"  ?
-  ??  H
-?  ?Y馏YY蝮XDY麦"  ?Y馏=?  ?X痼?  ?Y馏DX荔5?  驞?  鑷??i!  H峂?需兽?E窰峂绑U?殷
-?  ?Y
-?  ??  ??  ?Y?  ?\褘l!  ?M磯E阁\?羊M!  ?U拌c?(t$`(|$PD(D$@H兡p]锰W审Z?/  r
-?X
-!  ??\
-  ?,撩烫烫烫烫烫H冹(H??  ??吚xH??? ?吚x3离?  繦兡(锰烫烫烫烫烫烫烫烫烫蘤f?     H;
-  uH亮f髁u肏辽?   烫?  烫烫烫烫烫烫坦   ?烫烫烫烫?%z
-  烫H冹(M婣8H嬍I嬔?   ?   H兡(锰烫H冹(A? L嬌D嬝L嬔A冦tA婡McP髫L袶c萀#袸c肗?H婤婬H婤禩雎t嬄冟餖萂3菼嬌?H兡(锰%
-  烫烫烫烫ff?     嗵烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫蘃嬃I凐r7I凐wL?J婽鳯?J塗I凐 wZBL?BL鹈€    M吚tH+裷D?H罥菵圷u鹈D  I菵奬H蒊菵?u鹈ffff?     N?H+裺	L;?噉  H兞隽tH冡? (罤兞L繪+罬嬋I灵toI侚   嚦   I冟??fffffff?     fffffff?     fffffff?     T\ d0)A餒兞@I?)I?)Q?)Y?(膗袽嬋I灵t?     )A?H兞I蓇颕冟tN峔餉A)A鹈fffffff?     €    M嬋I灵I冟?D@?fffffff?     fffffff?     fffffff?     ?T\ d0+A餒兞@D@I?+I?+Q?+Y?(膗??@ I?D餒冮I冭隽tL嬞H冡?A(罫嬃L+繫嬋I灵t9I冟??@ L?T?\?d?)H冮@I?)I0)Q )Y(膗袽嬋I灵t?     )D餒冮I蓇颕冟tL嬞M+谹A)锰烫烫烫烫烫烫烫烫烫烫蘃嬃I凐rG兑I?II凐OsPM嬋I冡鳬蒮D  J塗鳬冮u鮅冟tJ塗f?     I冟t
-B圱 I萿雒fffffff?     fHn??L罤兞H冡餖+罬嬋I灵t/))AH伭€   )A?)A癐?)A?)A?)A?)A饀誌冟M嬋I灵tfD  H兞I蓇鬒冟tBD鹈烫烫烫蘚SystemRoot\system32\ntoskrnl.exe 烫烫烫烫烫烫烫\ D r i v e r \ M o u C l a s s   烫烫烫烫烫烫烫\ D r i v e r \ M o u H I D                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ,q      Lq      fq      vq      恞            簈      蝢      鎞       r      q      (r      6r      @r      Tr      dr      rr      妑            聄      農      鷕      s       s      r       q               3 @   ? @   ?  ?   3  3          l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C l  
- o w  j C ] T J O Y E J  4 9 6 C SBU\PNR8       S ] [ V Z A  S T U :   S ] [ V Z A  S T U :   U _ U Z Z P  S T U :       X9?惵u>櫃?殭?433?殭?          ?   @X9醇    鈊       e   鳨  ?      鈊    
-   <  `F  `4                                                                                         P @                   谸 @   郂 @   鐯 @           E                                                                                                                                     RSDSK?q喹CK掱擞?   E:\OlnyME\.H4CK\鍐呮牳\.CSGOFullKernel  --  bP.W\x64\Release\CheatDriver.pdb           ?  .text$mn    ?  P   .text$mn$00  4  ?  .text$mn$21 ?  ~   .text$s  @  ?   .idata$5    谸     .00cfg  鐯     .gfids   A  ?  .rdata  鳨  ?  .rdata$zzzdbg   燝  d  .xdata   P     .data   P  ?  .bss     `  ?  .pdata   p     .idata$2    p     .idata$3    (p  ?   .idata$4     q  D  .idata$6          + (3  @    20
-  r???p`0P 
-d T 4
- R??p  B  
-  
-4 
-2p  ?  
- 	 t	 d 4 2?
- 
-T	 4 2?p`
-  T 4 ???p4  #d!#4 #?pP  (3  ?    M   d 4 2p  t d
- T	 4 2??? 
-4 
-?p(3  p     t 4 ?P  ?  (3  P     b    ?0(3  X     B    R0  x h ?0  	?P(3  P   -  ? t d 4 ???P(3  P   
-  
-4 
-2p%
-  %? x h 	?P  
-4 
-?P(3  H   
- 
-4 
-2p               B                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        2⑦-?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             W  4I  X  ?  I  ?  C  I  D  ?  鬐  ?    怚    ?  H  ?    hI    ?  菻  ?  ?  碐  ?     TI     !  LH   !  C!  碐  D!  ?  燝  ?  ?  ℉  ?  i$  郒  l$  ?  圚  ?  =&  蠭  @&  ?  鬑  ?  ?  鬐  ?  f'  4H  h'  ?  窱  ?  ?  鬐  ?  ?  H  ?  s+  繥  t+  ?  (I  ?  x-  dH  x-  Z.  擧  \.  ?  (I  ?  {/  @I  |/  ?   H  ?  {0  谿  |0  [2  營  ?  ?  鬐  ?  ?  郔  (3  F3  霫  H3  ?  霫  ?  ?  鐸   4  ?  鳬  ?  ?   J                                              (p          6s   @                      ,q      Lq      fq      vq      恞            簈      蝢      鎞       r      q      (r      6r      @r      Tr      dr      rr      妑            聄      農      鷕      s       s      r       q              vRtlInitAnsiString RtlInitUnicodeString  ?RtlAnsiStringToUnicodeString  ?RtlCompareUnicodeString mRtlGetVersion PKeDelayExecutionThread  ? ExAllocatePool  ? ExAllocatePoolWithTag ? ExFreePoolWithTag ?PsCreateSystemThread  ?PsTerminateSystemThread sObfDereferenceObject  ?ZwCreateFile  ZwReadFile  ?ZwClose ?RtlCharToInteger  kMmCopyMemory  	RtlRandomEx KeStackAttachProcess  +KeUnstackDetachProcess  OPsLookupProcessByProcessId  "PsGetProcessWow64Process  ZwQuerySystemInformation  eObReferenceObjectByName f__chkstk  
-IoDriverObjectType  ntoskrnl.exe                                                                                                                                                                                               @     貭酄8?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
